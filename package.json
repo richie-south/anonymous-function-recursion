@@ -1,6 +1,6 @@
 {
   "name": "laiva",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Do anonymous function recursion with laiva",
   "main": "app.js",
   "scripts": {
